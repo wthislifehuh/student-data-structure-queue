@@ -4,9 +4,9 @@
 - 👑 Achievement: Highest mark in course
 
 ### Objective
-(a)	To review and strengthen the concept of trees.
-(b)	To practice the recursion techniques.
-(c)	To review different ways of traversing a binary tree.
+- (a)	To review and strengthen the concept of trees.
+- (b)	To practice the recursion techniques.
+- (c)	To review different ways of traversing a binary tree.
 
 ### Solution
 The student records are stored in a Binary Search Tree for fast access and searching. This assignment handles:
